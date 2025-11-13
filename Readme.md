@@ -1,6 +1,6 @@
-# Arrow Game
+# Arrow Game 
 
-Petit jeu HTML/SVG où vous tirez des flèches avec un arc.
+Petit jeu HTML/CSS/JS où vous tirez des flèches avec un arc.
 
 ## Description
 
